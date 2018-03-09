@@ -14,7 +14,11 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
+<<<<<<< HEAD
       //Working on feature branch
+=======
+        //Changes is made Dev  branch
+>>>>>>> Dev
     }
 
     override func didReceiveMemoryWarning() {
